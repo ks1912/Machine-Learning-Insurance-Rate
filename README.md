@@ -10,3 +10,6 @@
 # Method used is Linear Regression 
 
 # DATASET NAME -->  insurance.csv
+
+OUTPUT CAME 
+￼￼
