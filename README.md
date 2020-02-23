@@ -7,3 +7,6 @@
 2. Numpy
 3. Matplotlib.pyplot
 
+# Method used is Linear Regression 
+
+# DATASET NAME -->  insurance.csv
