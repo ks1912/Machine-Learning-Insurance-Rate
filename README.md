@@ -4,12 +4,6 @@
 
 SPYDER Notebook
 
-# Packages Used
-
-1. Pandas
-2. Numpy
-3. Matplotlib.pyplot
-
 # Method used is Linear Regression
 
 1. pandas
