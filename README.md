@@ -1,14 +1,20 @@
 # Machine-Learning-Insurance-Rate-PREDICTION
 --------------------------------------------------------------------------------------------------------
-# GUI USED --> SPYDER Notebook
+# GUI USED 
 
-# Packages Used 
+SPYDER Notebook
+
+# Packages Used
+
 1. Pandas
 2. Numpy
 3. Matplotlib.pyplot
 
 # Method used is Linear Regression
 
+1. pandas
+2. numpy 
+3. matplotlib.pyplot as plt
 -------------------------------------------------------------------------------------------------------
 # DATASET- NAME -->  insurance.csv
 
